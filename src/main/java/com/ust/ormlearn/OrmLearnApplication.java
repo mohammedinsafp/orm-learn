@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 import com.ust.ormlearn.Service.CountryService;
 import com.ust.ormlearn.model.Country;
-
 @SpringBootApplication
 public class OrmLearnApplication {
 	private static CountryService countryService;
